@@ -1,1 +1,3 @@
-# 李君好的Github博客(html)
+# Github Blog
+[link](https://lijunhao.pages.dev)    
+[Native](https://lijunhao2023.github.io)
